@@ -1,6 +1,5 @@
 # Сайт-Портфолио 
-
-## Обо мне 
+ 
 ![Photo](https://bc.itstep.org/dist/images/courses-adult/rpo-new-2/main-new1.png)
 ### НАЧИНАЮЩИЙ FRONT-END РАЗРАБОТЧИК
 Привет! Я начинающий верстальщик. в данный момент прохожу курс Нетологии на FRONT-END разработчика.
